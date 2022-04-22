@@ -1,3 +1,7 @@
+/// summary
+/// NevMesh와 LINQ 메소드를 이용해 가장 가까운 적을 찾고 이동하는 것을 베이스로 둡니다.
+/// target에 가까워지면 공격을 메커니즘을 시행합니다.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
