@@ -1,7 +1,6 @@
-//summary
-/*
-플레이어가 직접 조작할 수 있고, 특정 범위 이상 카메라가 이동하지 못하게 하는 코드
-*/
+/// <summary>
+/// 플레이어가 직접 조작할 수 있고, 특정 범위 이상 카메라가 이동하지 못하게 하는 코드
+/// </summary>
 
 using System.Collections;
 using System.Collections.Generic;
