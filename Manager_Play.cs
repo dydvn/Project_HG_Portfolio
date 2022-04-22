@@ -1,3 +1,6 @@
+/// summary
+/// 각종 대량의 오브젝트들을 미리 생성하고, coroutine을 이용해 특정 주기로 적들을 생산해내는 등 게임 플레이의 중심이 되는 스크립트입니다.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
